@@ -29,6 +29,7 @@ make directory 'wallpaper' or change 'feh' file path on .xinitrc
 ## Credits
 
 [@nrudesu](https://github.com/nrudesu) for helping
+
 [@ilham25](https://github.com/ilham25) for helping
 
 [bandithijo](https://bandithijo.github.io/blog/polybar-mudah-dikonfig-dan-praktis) for polybar
